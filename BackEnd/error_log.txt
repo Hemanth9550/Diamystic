@@ -1,0 +1,12 @@
+[17-Jul-2024 06:41:05 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::bind_param() in C:\xampp\htdocs\diabetes_Exercise\fetch_profile.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\diabetes_Exercise\fetch_profile.php on line 22
+[17-Jul-2024 06:41:08 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::bind_param() in C:\xampp\htdocs\diabetes_Exercise\fetch_profile.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\diabetes_Exercise\fetch_profile.php on line 22
+[17-Jul-2024 06:41:26 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::bind_param() in C:\xampp\htdocs\diabetes_Exercise\fetch_profile.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\diabetes_Exercise\fetch_profile.php on line 22
